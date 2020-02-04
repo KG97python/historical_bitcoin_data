@@ -1,5 +1,6 @@
-# Historical data of Bitcoin prices converted to a chart with moving avarages 
-# Not finished, Current Project.
-# Ran into issue, python does not understand dates in the format I collected it in. Example " Feb 01 05 2015 " need to convert them first and then work on the chart 
+# Historical data of Bitcoin prices converted to a chart with moving averages
+# Challenges: The data I obtained could not be taken from beginning to end, So I had to reverse it. the dates were also
+not in a python friendly style. Creating the csv file to the perfect method for the visuals was Difficult, but fun.
 
-<img src="images/progress.png"> <img src="images/progress1.png">
+<img src="images/result2.png">
+<img src="images/result1.png">
